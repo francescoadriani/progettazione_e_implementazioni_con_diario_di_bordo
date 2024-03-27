@@ -1,4 +1,3 @@
-# progettazione_e_implementazioni_con_diario_di_bordo
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13042681&assignment_repo_type=AssignmentRepo)
 <h1>Diario di bordo</h1>
 <p>Il diario di bordo in un lavoro su GIT &egrave; rappresentato dai singoli committ effettuati. Ad ongi piccola modifica di codice deve corrispondere un giusto commento e una parte di progettazione che comprende:</p>
